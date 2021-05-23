@@ -1,0 +1,32 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "frontendmaster"
+  },
+  "pet": [
+    {
+      "id": "string",
+      "createdAt": "46",
+      "name": "Moose",
+      "type": "CAT"
+    },
+    {
+      "id": "string",
+      "createdAt": "44",
+      "name": "Shaggy",
+      "type": "DOG"
+    },
+    {
+      "id": "Q1j2X02XEPva6KtVCmGaO",
+      "createdAt": 1621404301772,
+      "name": "Moose",
+      "type": "CAT"
+    },
+    {
+      "id": "8J-SbKHNaAOYSwQn3pAOL",
+      "createdAt": 1621405997218,
+      "name": "Moose",
+      "type": "CAT"
+    }
+  ]
+}
